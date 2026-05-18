@@ -1,0 +1,13 @@
+# Composer
+/vendor/
+
+# PHP CS Fixer
+.php-cs-fixer.cache
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
